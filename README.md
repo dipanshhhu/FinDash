@@ -1,4 +1,4 @@
-💰 FinDash - Finance Dashboard
+💰 FinDash - Finance Dashboard 
 
 📌 Overview
 
