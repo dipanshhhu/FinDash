@@ -22,7 +22,7 @@ FinDash is a modern finance dashboard that helps track income, expenses, and bal
 
 🌐 Live Demo
 
-🔗 Live Demo: https://dipanshhhu.github.io/FinDash/
+🔗 Link: https://dipanshhhu.github.io/FinDash/
 
 📂 Project Structure
 
